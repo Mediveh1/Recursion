@@ -21,6 +21,6 @@ function merge(leftArray, rightArray) {
   }
   return tempArray.concat(leftArray, rightArray);
 }
-let arr = [5, 4, 1];
+// let arr = [5, 4, 1];
 
 console.log(mergeSort(arr));
